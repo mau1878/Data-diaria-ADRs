@@ -1,0 +1,6 @@
+yfinance
+pandas
+seaborn
+matplotlib
+squarify
+numpy
